@@ -24,20 +24,6 @@ Building useful software from mathematical ideas.
 
 ---
 
-## current_focus
-
-```console
-$ pwd
-
-/statistics
-    ├── machine learning
-    ├── AI agents
-    ├── quantitative finance
-    └── high-performance Python
-```
-
----
-
 ## philosophy
 
 ```text
