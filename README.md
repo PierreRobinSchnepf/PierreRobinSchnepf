@@ -21,33 +21,3 @@ Building useful software from mathematical ideas.
 [Email](mailto:pierre.robin-schnepf@proton.me)
 
 </div>
-
----
-
-## philosophy
-
-```text
-Statistics
-      │
-      ▼
-Machine Learning
-      │
-      ▼
-Useful Software
-```
-
-I enjoy building projects where mathematical models become real applications.
-
----
-
-## contact
-
-```console
-$ contact
-
-LinkedIn
-→ https://linkedin.com/in/pierre-robin-schnepf
-
-Mail
-→ pierre.robin-schnepf@proton.me
-```
