@@ -1,6 +1,6 @@
 <div align="center">
 
-# Pierre Robin-Schnepf
+# Pierre Robin--Schnepf
 
 **Engineering student @ ENSAE Paris — Statistics, ML & Quantitative Finance**
 
@@ -16,10 +16,10 @@ $ whoami
 Engineering student @ ENSAE Paris
 
 $ cat interests.txt
-Statistics · Machine Learning · AI Agents · Quantitative Finance · Software Engineering
+Statistics · Machine Learning · AI Agents · Software Engineering
 
 $ echo $CURRENTLY
-Quant / Data Science intern — Société Générale (Sep 2026 → Feb 2027)
+Agentic AI / Data Science intern — Société Générale (Sep 2026 → Feb 2027)
 ```
 
 ## Building
