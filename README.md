@@ -2,7 +2,7 @@
 
 # Pierre Robin--Schnepf
 
-**Engineering student @ ENSAE Paris — Statistics, ML & Quantitative Finance**
+**Engineering student @ ENSAE Paris — Statistics, ML & Software Engineering**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pierre-robin-schnepf)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pierre.robin-schnepf@proton.me)
