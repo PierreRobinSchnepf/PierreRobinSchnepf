@@ -48,10 +48,3 @@ design systems, and PHP sites with admin panels.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 <br>
-
-<div align="center">
-
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=PierreRobinSchnepf&show_icons=true&theme=default&hide_border=true&hide_title=true" />
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PierreRobinSchnepf&layout=compact&hide_border=true&hide_title=true" />
-
-</div>
