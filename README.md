@@ -34,7 +34,6 @@ Ranking website for foosball players at ENSAE.
 **[La Belle Vitrine](https://la-belle-vitrine.github.io)**
 Solo branding & web-design studio for local artisans (Metz/Moselle) — logo generation,
 design systems, and PHP sites with admin panels.
-
 <br>
 
 ## Stack
