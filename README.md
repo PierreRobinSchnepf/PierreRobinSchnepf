@@ -24,16 +24,13 @@ Agentic AI / Data Science intern — Société Générale (Sep 2026 → Feb 2027
 
 ## Building
 
-**[Applied-Statistics-ENGIE](https://github.com/PierreRobinSchnepf/Applied-Statistics-ENGIE)**
+**[gas-consumption-forecast](https://github.com/PierreRobinSchnepf/special-train)**
 Hourly natural gas demand forecasting for ENGIE — OLS → SUR → Kalman filter, state-space
 modeling of thermosensitivity and structural drift. ENSAE applied statistics project.
 
 **[babyfoot-ensae](https://github.com/PierreRobinSchnepf/babyfoot-ensae)**
 Ranking website for foosball players at ENSAE.
 
-**[La Belle Vitrine](https://la-belle-vitrine.github.io)**
-Solo branding & web-design studio for local artisans (Metz/Moselle) — logo generation,
-design systems, and PHP sites with admin panels.
 <br>
 
 ## Stack
