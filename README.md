@@ -31,8 +31,6 @@ modeling of thermosensitivity and structural drift. ENSAE applied statistics pro
 **[babyfoot-ensae](https://github.com/PierreRobinSchnepf/babyfoot-ensae)**
 Ranking website for foosball players at ENSAE.
 
-<br>
-
 ## Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
